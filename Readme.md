@@ -108,10 +108,11 @@ I ran the following command:
 **Public Ip address: `192.168.56.3`**
 
 **How to run the Web server**
-- Option 1: Input `https://192.168.56.3` into a web server, which can only be done on my local machine
-- Option 2: Accessing the web server externally using ngrok public URL
-    I need to start my ngrok tunnel from my end using command `ngrok http 80` and provide the public URL generated to the external user.
-    Then the user can paste the link into his/her browser to access the web server
+- Option 1: Input `https://192.168.56.3` into a web server, which can only be done on my local machine.
+- Option 2: Accessing the web server externally using ngrok public URL.
+    I need to start my ngrok tunnel from my end using command `ngrok http 80` and provide the public URL generated to the external user,
+    Then the user can paste the link into his/her browser to access the web server,
+    Then click on **Visit site** to view the page.
 **Note: I need to be contacted to start the server from my end**
   *Contact: bahseet2022@gmail.com*
 
